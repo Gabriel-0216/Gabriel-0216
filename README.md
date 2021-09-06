@@ -1,6 +1,6 @@
 - 👋 Sou Gabriel 
-- 👀 Interessado em Java e C++...
-- 🌱 Atualmente estudo Java, C++ e Banco de Dados ...
+- 👀 C#, .NET
+- 🌱 Atualmente -> .NET Developer
 
 
 <!---
