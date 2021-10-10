@@ -1,9 +1,11 @@
+## Hello World 👋, meu nome é Gabriel | My name is Gabriel
 
-
-### Hello World 👋, meu nome é Gabriel | My name is Gabriel
 </br>
-### 🎓 Computer Science student 
+
+## Computer Science student 🎓
+
 #### 🔭 I'm currently working as ASP NET Software Developer | Atualmente trabalho como desenvolvedor ASP NET 
+
 </br>
 </br>
 
