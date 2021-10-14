@@ -4,7 +4,7 @@
 
 ## Computer Science student 🎓
 
-#### 🔭 I'm currently working as ASP NET Software Developer | Atualmente trabalho como desenvolvedor ASP NET 
+#### 🔭 I'm currently working as a Software Developer - ASP NET | Atualmente trabalho como desenvolvedor ASP NET 
 
 </br>
 </br>
